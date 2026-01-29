@@ -1,3 +1,1 @@
-# Hello World
-
-This is a readme for our first project!
+This repo is where I will track my progress and keep all my Security Projects in!
