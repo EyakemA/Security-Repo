@@ -1,0 +1,20 @@
+# SSH keys
+*.pem
+*.key
+id_rsa
+id_ed25519
+sshkey
+
+# Environment variables (secrets, API keys)
+.env
+.env.local
+.env.*
+
+# AWS credentials
+.aws/
+credentials
+
+# Secrets
+secrets/
+*.secret
+ssh/
