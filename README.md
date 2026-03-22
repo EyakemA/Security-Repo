@@ -130,13 +130,4 @@ lab-name/
 └── lessons.md       # What broke, what surprised me
 ```
 
-## Progress
-
-Started: [date]  
-Current phase: Networking  
-Labs completed: 0 / 24  
-Leetcode: 0 / 150
-
----
-
 *Building in public. Every lab documented as I go.*
