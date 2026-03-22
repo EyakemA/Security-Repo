@@ -99,7 +99,6 @@ Running alongside all four phases. 20–30 minutes daily.
 - Python tooling — building security tools not just using them
 - Every lab automated in Python where possible
 
-Progress: [ ] Easy fluent [ ] Medium reliable [ ] Hard stretch goal
 
 ## Labs Index
 
@@ -108,14 +107,6 @@ Every lab lives in its own repo with:
 - What broke and how I fixed it
 - What I learned
 - Evidence (screenshots, pcap files, log snippets, architecture diagrams)
-
-| Lab | Phase | Repo | Status |
-|-----|-------|------|--------|
-| Segmented home lab | Networking | [link] | [ ] |
-| Packet analysis | Networking | [link] | [ ] |
-| Suricata IDS | Networking | [link] | [ ] |
-| WireGuard VPN | Networking | [link] | [ ] |
-| ... | ... | ... | ... |
 
 ## How I document each lab
 
