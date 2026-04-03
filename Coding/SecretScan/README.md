@@ -1,4 +1,4 @@
-README SecretScan
+# README SecretScan
 
 SecretScan is a command-line tool for detecting secrets, credentials, and high-entropy strings in local files and Git history. It combines regex pattern matching with Shannon entropy analysis to surface API keys, private keys, tokens, and passwords that static scanners miss scoring each finding by confidence level so you can triage fast.
 
